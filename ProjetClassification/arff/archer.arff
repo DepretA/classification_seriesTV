@@ -1,0 +1,10 @@
+
+
+@relation series
+
+@attribute nom_fichier string
+@attribute contenu string
+@attribute classe {animation, crime, medical}
+
+@data
+archer,"",animation
